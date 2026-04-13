@@ -1,0 +1,16 @@
+{
+    "name": "Nguyen Van A",
+    "age": 25,
+    "city": "Ho Chi Minh",
+    "is_student": false,
+    "grades": [
+        8.5,
+        9.0,
+        7.5
+    ],
+    "address": {
+        "street": "Nguyen Hue",
+        "district": 1
+    },
+    "none_value": null
+}

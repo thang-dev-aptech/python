@@ -1,0 +1,5 @@
+Dòng 1: Hello Python.
+Dòng 2: Xin chào Việt Nam.
+Dòng 3: List line A.
+Dòng 4: List line B.
+Dòng 5: Ghi thêm bằng mode append.
